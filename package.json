@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mparman6/quickproject/issues"
   },
-  "homepage": "https://github.com/mparman6/quickproject#readme"
+  "homepage": "https://github.com/mparman6/quickproject#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
